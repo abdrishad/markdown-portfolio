@@ -1,1 +1,1 @@
-![Image of ME](https://www.github.com/abdrishad/markdown-portfolio/_includes/IMG_7081)
+![Image of ME](IMG_7801.JPG)
