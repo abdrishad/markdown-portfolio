@@ -4,4 +4,4 @@
 3. Digital fabrication
   1. 3D modelling
   2. 3D Printing
-  3. Cnc
+  3. CNC
