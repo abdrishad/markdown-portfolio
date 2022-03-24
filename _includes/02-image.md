@@ -1,1 +1,1 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of ME](https://www.github.com/abdrishad/markdown-portfolio/_includes/IMG_7081)
