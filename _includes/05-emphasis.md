@@ -1,2 +1,2 @@
-__amatuer knowledge in HTml and CSS__
+amatuer knowledge in __HTML__ and __CSS__
 skilled in _photoshop_
